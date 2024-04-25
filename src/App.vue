@@ -20,10 +20,6 @@ const alerts = ref([
     message: 'Error: Task failed successfully.'
   }
 ])
-
-function handleClosed() {
-  console.log('closed')
-}
 </script>
 
 <template>
